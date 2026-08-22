@@ -1,6 +1,6 @@
 ### Hey, I'm Christopher 👋
 
-IT Analyst II by day, infrastructure nerd the rest of the time. Over the last few months I've been teaching myself the engineering side of all this — infrastructure-as-code, networking, automation, and building with AI — and I've been hooked ever since.
+IT Service Desk Analyst II by day, infrastructure nerd the rest of the time. Outside of work I've been digging deeper into the engineering side of all this: infrastructure-as-code, networking, automation, and building with AI, and I've been hooked ever since.
 
 My approach is pretty simple: learn the fundamentals, build something real with them, then prove it actually works with tests and CI. If it's repetitive, I'd rather automate it. If I can't verify it, I don't trust it.
 
