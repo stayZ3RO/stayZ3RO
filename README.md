@@ -2,7 +2,7 @@
 
 IT Service Desk Analyst II building toward network, infrastructure, and cloud engineering. I turn hands-on infrastructure and automation work into documented, evidence-backed projects validated through tests, CI, and operational results.
 
-🔗 **[View my portfolio](https://stayz3ro.github.io/portfolio/)** — projects, evidence, resume, and contact info in one place.
+🔗 **[View my portfolio](https://stayz3ro.github.io/portfolio/)** - projects, evidence, resume, and contact info in one place.
 
 ### How I work
 
