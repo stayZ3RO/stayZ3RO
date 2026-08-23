@@ -1,4 +1,4 @@
-### Hey, I'm Christopher Austin Lorenzo 👋
+### Hey, I'm Christopher 👋
 
 IT Service Desk Analyst II building toward network, infrastructure, and cloud engineering. I turn hands-on infrastructure and automation work into documented, evidence-backed projects validated through tests, CI, and operational results.
 
