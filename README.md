@@ -1,6 +1,6 @@
 ### Hey, I'm Christopher 👋
 
-IT Engineer on the Global Service Desk building toward cloud, network, and platform engineering. I turn hands-on work into documented, evidence-backed projects validated through tests, CI, and operational results. If it's repetitive, I automate it. If I can't verify it, I don't trust it.
+I'm an IT Service Desk Analyst II focused on automation, infrastructure, and operational reliability. I turn hands-on work into documented, evidence-backed projects that reduce manual effort, improve visibility, and make team workflows easier to follow and support. If it's repetitive, I automate it. If I can't verify it, I don't trust it.
 
 🔗 **[View my portfolio](https://stayz3ro.github.io/portfolio/)** — projects, evidence, resume, and contact.
 
@@ -10,7 +10,7 @@ IT Engineer on the Global Service Desk building toward cloud, network, and platf
 
 By day: building AI Ops tooling for a global service desk — n8n queue reporting, Jira automation, agent-assisted shift handoffs, and KBA lifecycle tooling. All governed, all git-backed, all designed to make manual work disappear. That work lives at **[CLorenzo_wkinect](https://github.com/CLorenzo_wkinect)**.
 
-Outside of work: the labs below — infrastructure-as-code, home network engineering, and the cert path toward Cloud/Platform engineering.
+Outside of work: the labs below — infrastructure-as-code, home network engineering, and the cert path toward cloud/platform work.
 
 ---
 
@@ -41,8 +41,8 @@ Outside of work: the labs below — infrastructure-as-code, home network enginee
 ### Certifications in progress
 
 | Cert | Status |
-|------|--------|
-| AWS AIF-C01 (AI Practitioner) | 📖 **Studying** — target Sep 2026 |
+| --- | --- |
+| AWS AIF-C01 (AI Practitioner) | 📖 Studying — target Sep 2026 |
 | HashiCorp Terraform Associate | 📋 Planned — Oct 2026 |
 | AWS CLF-C02 | 📋 Planned — Nov 2026 (free attempt after AIF) |
 | AWS SAA-C03 | 📋 Planned — Q1 2027 |
