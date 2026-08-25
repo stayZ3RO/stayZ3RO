@@ -18,10 +18,10 @@ Outside of work: the labs below — infrastructure-as-code, home network enginee
 
 | Project | What it is |
 | --- | --- |
-| **[AWS Network Automation Lab](https://github.com/stayZ3RO/aws-network-automation-lab)** | AWS networking as code — a reusable Terraform/OpenTofu VPC module, a Python drift-check CLI with tests, and CI. Probably the clearest example of how I like to build. |
 | **[Home Network Infrastructure / HA DNS](https://github.com/stayZ3RO/home-network-infrastructure-HA-DNS)** | Validated, high-availability DNS and failover: Pi-hole, Unbound, Keepalived, Gravity Sync, Prometheus/Grafana monitoring. Where a lot of the learning started. |
 | **[Managed Network Infrastructure Lab](https://github.com/stayZ3RO/home-network-managed-infrastructure-lab)** | Omada/ER605 managed cutover complete — subnetting, VLAN planning, firewall policy, rollback plan documented. |
 | **[VPS Cloud Infrastructure Lab](https://github.com/stayZ3RO/vps-cloud-infra-lab)** | Linux VPS hardened with DNS/public routing in place; containerized app deployment, reverse proxy/HTTPS, monitoring, and backups planned. |
+| **[AWS Network Automation Lab](https://github.com/stayZ3RO/aws-network-automation-lab)** | AWS networking as code — a reusable Terraform/OpenTofu VPC module, a Python drift-check CLI with tests, and CI. Learning project, not deployed infrastructure. |
 
 *A full-stack network-ops dashboard and a governed homelab-ops system live in private repos. Happy to walk through them.*
 
