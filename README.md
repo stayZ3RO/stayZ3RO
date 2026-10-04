@@ -1,8 +1,12 @@
 ### Hey, I'm Christopher 👋
 
-I'm an IT Service Desk Analyst II focused on automation, infrastructure, and operational reliability. I document hands-on work with tests and operational evidence, aiming to reduce manual effort, improve visibility, and make team workflows easier to follow and support. I automate repetitive tasks and verify the results.
+I'm an IT Service Desk Analyst II. I work on automation, infrastructure, and making operations easier to support. I automate the repetitive parts, then check the result.
 
 🔗 **[View my portfolio](https://chrisalorenzo.com/)**: projects, evidence, resume, and contact.
+
+Lab notes are at **[blog.chrisalorenzo.com](https://blog.chrisalorenzo.com/)**. `stayz3ro.dev` redirects there. The posts cover home DNS, the move onto Proxmox, the managed network, and the public VPS.
+
+Public status is at **[status.chrisalorenzo.com](https://status.chrisalorenzo.com/)**. The page is public. The admin UI stays on my tailnet.
 
 ---
 
@@ -18,9 +22,9 @@ Outside of work: the labs below cover infrastructure-as-code, home network engin
 
 | Project | What it is |
 | --- | --- |
-| **[Home Network Infrastructure / HA DNS](https://github.com/stayZ3RO/dns)** | Validated, high-availability DNS and failover: Pi-hole, Unbound, Keepalived, Gravity Sync, Prometheus/Grafana monitoring. Where a lot of the learning started. |
+| **[Home Network Infrastructure / HA DNS](https://github.com/stayZ3RO/dns)** | High-availability DNS: Pi-hole, Unbound, Keepalived, and Prometheus/Grafana. Gravity Sync is not running. Nebula Sync is the planned replacement. Where a lot of the learning started. |
 | **[Managed Network Infrastructure Lab](https://github.com/stayZ3RO/netlab)** | UniFi UDM Pro and USW-24-PoE replaced the Omada core on 2026-09-27. The network is still flat; VLAN and firewall design come next. |
-| **[VPS Cloud Infrastructure Lab](https://github.com/stayZ3RO/vps-lab)** | Netcup VPS with Caddy/HTTPS, seven Uptime Kuma monitors, and Discord plus self-hosted ntfy alerts live since 2026-09-28. Backups are planned. |
+| **[VPS Cloud Infrastructure Lab](https://github.com/stayZ3RO/vps-lab)** | Netcup VPS with Caddy and HTTPS. Eight Uptime Kuma monitors, including a redirect check. Discord and self-hosted ntfy. Public status page at [status.chrisalorenzo.com](https://status.chrisalorenzo.com/), admin on the tailnet. Backups are planned. |
 | **[AWS Network Automation Lab](https://github.com/stayZ3RO/cloud-netlab)** | AWS networking as code: a reusable Terraform/OpenTofu VPC module, a Python drift-check CLI with tests, and CI. Learning project, not deployed infrastructure. |
 
 *I also build a full-stack network dashboard and a governed homelab system in private repositories. I'm happy to walk through them.*
@@ -40,21 +44,19 @@ Outside of work: the labs below cover infrastructure-as-code, home network engin
 
 ### Certifications in progress
 
-| Cert | Status |
-| --- | --- |
-| AWS AIF-C01 (AI Practitioner) | 📖 Studying |
-| HashiCorp Terraform Associate | 📋 Planned: Oct 2026 |
-| AWS CLF-C02 | 📋 Planned: Nov 2026 (free attempt after AIF) |
-| AWS SAA-C03 | 📋 Planned: Q1 2027 |
+- CompTIA Network+ (studying)
+- CompTIA Security+ (next)
+- An AWS cloud certification (considering, likely SAA-C03)
+- HashiCorp Terraform Associate (considering)
 
 ---
 
 ### How I work
 
-- Learn the fundamentals, then build something real with them
-- Validate results through tests, CI, or operational evidence
-- Document what was proven. Separate private operational detail from public-safe case studies
-- Use AI as an accelerator while independently reviewing and validating its outputs
+- I learn the fundamentals, then build something real with them.
+- A test, a CI run, or a captured result has to back the claim.
+- I write down what was proven, and I keep private operational detail out of the public notes.
+- AI speeds the draft. I still review what it produced.
 
 ---
 
