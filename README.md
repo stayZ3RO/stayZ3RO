@@ -8,7 +8,7 @@ I'm an IT Service Desk Analyst II focused on automation, infrastructure, and ope
 
 ### What I'm working on right now
 
-At work, I build AI Ops tools for a global service desk: n8n queue reporting, Jira automation, agent-assisted shift handoffs, and KBA lifecycle tooling. They are governed and git-backed, with the goal of reducing manual work. That work stays private.
+At work, I build AI Ops tools for a global service desk: n8n queue reporting, Jira automation, agent-assisted shift handoffs, and KBA lifecycle tooling. They are governed and git-backed, with the goal of reducing manual work. That work lives at **[CLorenzo_wkinect](https://github.com/CLorenzo_wkinect)**.
 
 Outside of work: the labs below cover infrastructure-as-code, home network engineering, and the cert path toward cloud/platform work.
 
