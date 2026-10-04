@@ -46,10 +46,10 @@ Outside of work: the labs below cover infrastructure-as-code, home network engin
 
 | Cert | Status |
 | --- | --- |
-| AWS AIF-C01 (AI Practitioner) | 📖 Studying |
-| HashiCorp Terraform Associate | 📋 Planned: Oct 2026 |
-| AWS CLF-C02 | 📋 Planned: Nov 2026 (free attempt after AIF) |
-| AWS SAA-C03 | 📋 Planned: Q1 2027 |
+| CompTIA Network+ | 📖 Studying now |
+| CompTIA Security+ | 📋 Next |
+| One cloud cert | 📋 Considering AWS options such as SAA-C03 |
+| HashiCorp Terraform Associate | 📋 Under consideration |
 
 ---
 
