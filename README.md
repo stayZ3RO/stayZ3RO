@@ -44,12 +44,10 @@ Outside of work: the labs below cover infrastructure-as-code, home network engin
 
 ### Certifications in progress
 
-| Cert | Status |
-| --- | --- |
-| CompTIA Network+ | 📖 Studying now |
-| CompTIA Security+ | 📋 Next |
-| One cloud cert | 📋 Considering AWS options such as SAA-C03 |
-| HashiCorp Terraform Associate | 📋 Under consideration |
+- CompTIA Network+ (studying)
+- CompTIA Security+ (next)
+- An AWS cloud certification (considering, likely SAA-C03)
+- HashiCorp Terraform Associate (considering)
 
 ---
 
