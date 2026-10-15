@@ -24,9 +24,9 @@ I've also finished the design for a read-only AI lab assistant (Track G) and dra
 
 | Project | What it is |
 | --- | --- |
-| **[Home Network Infrastructure / HA DNS](https://github.com/stayZ3RO/dns)** | High-availability DNS: Pi-hole, Unbound, Keepalived, and Prometheus/Grafana. Gravity Sync is inactive. I've prepared Nebula Sync adoption and VRRP credential rotation with failover checks; deployment is still ahead. [v1.0.0](https://github.com/stayZ3RO/dns/releases/tag/v1.0.0). |
+| **[Home Network Infrastructure / HA DNS](https://github.com/stayZ3RO/dns)** | High-availability DNS: Pi-hole, Unbound, Keepalived, and Prometheus/Grafana. Gravity Sync is retired. Nebula Sync is the replication in use. [v1.0.0](https://github.com/stayZ3RO/dns/releases/tag/v1.0.0). |
 | **[Managed Network Infrastructure Lab](https://github.com/stayZ3RO/netlab)** | UniFi UDM Pro and USW-24-PoE replaced the Omada core on 2026-09-27. The network is still flat; VLAN and firewall design come next. [v1.0.0](https://github.com/stayZ3RO/netlab/releases/tag/v1.0.0). |
-| **[VPS Cloud Infrastructure Lab](https://github.com/stayZ3RO/vps-lab)** | Netcup VPS with Caddy and HTTPS. Eight Uptime Kuma monitors, including a redirect check. Discord and self-hosted ntfy. Public status page at [status.chrisalorenzo.com](https://status.chrisalorenzo.com/), admin on the tailnet. Backups are planned. |
+| **[VPS Cloud Infrastructure Lab](https://github.com/stayZ3RO/vps-lab)** | Netcup VPS with Caddy and HTTPS. Uptime Kuma monitors: see the [status page](https://status.chrisalorenzo.com/). Discord and self-hosted ntfy. The admin UI stays on the tailnet. Umami is on the public sites. Backups are planned. |
 | **[AWS Network Automation Lab](https://github.com/stayZ3RO/cloud-netlab)** | AWS networking as code: a reusable Terraform/OpenTofu VPC module, a Python drift-check CLI with tests, and CI. Learning project, not deployed infrastructure. |
 
 My [portfolio also has a v1.0.0 release](https://github.com/stayZ3RO/portfolio/releases/tag/v1.0.0). I keep the detailed lab controls private, but I'm happy to walk through the design choices.
@@ -48,7 +48,7 @@ My [portfolio also has a v1.0.0 release](https://github.com/stayZ3RO/portfolio/r
 
 - CompTIA Network+ (studying)
 - CompTIA Security+ (next)
-- An AWS cloud certification (considering, likely SAA-C03)
+- A cloud certification (after Security+)
 - HashiCorp Terraform Associate (considering)
 
 ---
